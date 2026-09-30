@@ -206,7 +206,7 @@ Healthcare-Analytics-for-Doctor-Visits/
 
 * MCA (2025)
 * Aspiring Data Analyst / MIS Executive / Power BI Developer
-* LinkedIn: [www.linkedin.com/in/nisha-borse-27m](http://www.linkedin.com/in/nisha-borse-27m)
+* LinkedIn: https://www.linkedin.com/in/nisha-borse-27m/
 * GitHub: github.com/100-Nisha
 
 ⭐ If you found this project useful, consider giving it a star!
